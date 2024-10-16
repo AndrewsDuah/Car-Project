@@ -57,8 +57,15 @@ Jumper Wires
 💻 Software
 
 Arduino IDE
+
 Dabble app 
+
 All open source libraries 
+
+YouTube Link:
+
+https://youtu.be/UcN4Xsuvy_U?si=I_SyrluauRXdp308
+
 ![car_img_1](https://github.com/user-attachments/assets/143caa3a-6c31-4b76-824e-3241db2f5d9e)
 
 ![car_img_2](https://github.com/user-attachments/assets/31f5589d-d865-4a30-bd5e-f7fc40fafd59)
