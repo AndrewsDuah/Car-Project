@@ -46,13 +46,24 @@ Acceleration and deceleration algorithms for fluid movement
 🛠 Hardware
 
 Arduino Mega 2560
+
 L298N Motor Driver
+
 HC-SR04 Ultrasonic Sensor
+
 HM10 Bluetooth Module
+
 DC Motors (x2)
+
 Car Chassis and Wheels
+
 9V Battery
+
 Jumper Wires
+
+Servo Motor
+
+Breadboard
 
 💻 Software
 
